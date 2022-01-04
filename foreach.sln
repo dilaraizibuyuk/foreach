@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach", "foreach\foreach.csproj", "{68C9CF86-430D-47E0-A80D-FE67CEFE4F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach_ornek2", "foreach_ornek2\foreach_ornek2.csproj", "{1D4004BF-09A0-4F8D-B3AB-F53CFA194550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C9CF86-430D-47E0-A80D-FE67CEFE4F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C9CF86-430D-47E0-A80D-FE67CEFE4F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C9CF86-430D-47E0-A80D-FE67CEFE4F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C9CF86-430D-47E0-A80D-FE67CEFE4F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4004BF-09A0-4F8D-B3AB-F53CFA194550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4004BF-09A0-4F8D-B3AB-F53CFA194550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4004BF-09A0-4F8D-B3AB-F53CFA194550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4004BF-09A0-4F8D-B3AB-F53CFA194550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A543426C-07CB-48D6-923A-DAE81F893066}
+	EndGlobalSection
+EndGlobal
